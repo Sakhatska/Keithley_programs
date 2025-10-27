@@ -6,7 +6,7 @@ Install 64-bit python on Windows and run the following commands with it:
 
 ```powershell
 python -m venv env
-.\env\Scripts\Activate
+.\env\Scripts\Activate.ps1
 ```
 
 Install necessary modules:
