@@ -7,11 +7,16 @@ Install 64-bit python on Windows and run the following commands with it:
 ```powershell
 python -m venv env
 .\env\Scripts\Activate
+```
+
 Install necessary modules:
 
 ```powershell
-pip install -r requirements.txt 
+pip install -r requirements.txt
+```
+
 Run app:
 
 ```powershell
 python Keithley_current_control.py
+```
